@@ -1,0 +1,9 @@
+{
+  "id": "lg.service",
+  "description": "HelloWorld Service",
+  "services": [
+    {
+      "name": "lg.service"
+    }
+  ]
+}
